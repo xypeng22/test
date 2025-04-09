@@ -42,12 +42,11 @@ For more details of the the SCARED, please follows the instructions in [AF-SfMLe
 
 ## 📊 Evaluation
 
-We are currently organizing the code section, and the testing portion of the code will be made publicly available soon.
 
 
 ## 📦 Pretrained Models
 
-We have released our pretrained models in this link: [google drive](https://drive.google.com/drive/folders/1vCzhDq-d8ZvCebPcQR6I0IjMf10u6mxM)
+We have released our pretrained models in this link: [google drive]()
 
 
 
