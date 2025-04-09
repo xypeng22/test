@@ -45,7 +45,7 @@ For more details of the the SCARED, please follows the instructions in [AF-SfMLe
 
 ## 📦 Pretrained Models
 
-We have released our pretrained models in this link: [google drive]()
+We have released our pretrained models in this link: [google drive](https://drive.google.com/drive/folders/1vCzhDq-d8ZvCebPcQR6I0IjMf10u6mxM)
 
 
 
