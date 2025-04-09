@@ -40,7 +40,9 @@ The datasets are publicly available at the following URLs:
 For more details of the the SCARED, please follows the instructions in [AF-SfMLearner](https://github.com/ShuweiShao/AF-SfMLearner).
 
 
+## 📊 Evaluation
 
+We are currently organizing the code section, and the testing portion of the code will be made publicly available soon.
 
 
 ## 📦 Pretrained Models
