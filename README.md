@@ -4,7 +4,7 @@ This is the official PyTorch implementation of the method  as described in
 
 "HADepth: Highlight-aware monocular depth estimation for endoscopy" submitted to **Signal, Image and Video Processing**.
 
-
+**We are organizing the code and expect to complete it within a few weeks.**
 
 
 
